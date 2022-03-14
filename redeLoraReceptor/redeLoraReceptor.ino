@@ -138,7 +138,7 @@ void loop()
 //Função: inicializa e conecta-se na rede WI-FI desejada
 //Parâmetros: nenhum
 //Retorno: nenhum
-void initWiFi() 
+void initWiFi()
 {
     delay(10);
     Serial.println("------Conexao WI-FI------");
